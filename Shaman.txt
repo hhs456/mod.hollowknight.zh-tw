@@ -1,0 +1,21 @@
+<entries>
+<entry name="SHAMAN_QUAKE">啊吼！我感覺到了你的新力量，這種力量可以震碎我們腳下的岩石，對想要去更深處的蟲來說很實用。&lt;page&gt;我三叔也有過差不多的力量。他的脾氣也很暴躁！哦吼吼吼！多可怕的組合啊。 </entry>
+<entry name="SHAMAN_OPEN_GATE">看吶！我們之間的門打開了。哦吼吼！&lt;page&gt;你一定很想繼續前進吧。再見！要充滿信心！不管你是在尋找什麼....它都會不請自來！哦吼吼吼！</entry>
+<entry name="SHAMAN_OPENED_GATE">磨蹭什麼！我怕是不會再給你其他東西了。&lt;page&gt;不過我佩服你的固執！哦吼吼吼吼！ </entry>
+<entry name="SHAMAN_SUMMONED_1">別害怕。要充滿信心！法術已經屬於你了，你只需要把它帶走！&lt;page&gt;哦吼吼吼，我敢說沒有這道法術你根本沒法繼續前進！</entry>
+<entry name="SHAMAN_MEET">哦吼！是誰從黑暗中探出了身子？我的天啊，你看起來好可怕！陌生空洞的面孔和的邪惡的武器！&lt;page&gt;一定是什麼重要的東西引你來到這聖巢的殘骸，但我不會問到底是什麼。也許你找到我是需要我的幫助？&lt;page&gt;不用多說，朋友。我要給你一個禮物，我自己發明的惡毒小法術。最適合你這種小傢伙了。哦吼吼！</entry>
+<entry name="SHAMAN_DREAM">在別的蟲子的夢中亂逛……你比看上去更有好奇心！哦吼吼吼！</entry>
+<entry name="SHAMAN_RETURN">哦吼！是什麼風把你吹回來了，小影子？你迷路了嗎？&lt;page&gt;別擔心我。不用再為我做什麼了！哦吼吼吼！ </entry>
+<entry name="SHAMAN_KILLED_BLOCKER_2">哦吼！你在這兒呢！你睡覺的時候我一直在照料你，但我後來肯定也睡著了。我一醒過來就發現你不見了！你總要做出點驚蟲之舉，哦吼吼！&lt;page&gt;其實我想請你幫個小忙。我們頭上有頭野獸在遊盪，就在神殿的中心……&lt;page&gt;……哦吼？又是一個驚喜！我還沒開口你就已經幹掉了那傢伙！&lt;page&gt;我真是不配和你當朋友！你簡直就是奇迹！哦吼吼吼！</entry>
+<entry name="SHAMAN_KILLED_BLOCKER_1">哦吼！你宰掉了那頭野獸！&lt;page&gt;可憐的傢伙！你一定把它嚇壞了。它本來很溫順，但洞穴裡腐臭的空氣讓它滿心古舊的怒氣。&lt;page&gt;但你還是完成了必須完成的任務！感激不盡！當然了，我們都知道沒有我的法術你肯定幹不成這事……哦吼吼！</entry>
+<entry name="SHAMAN_FUNG_DREAM">……聽我的聲音……</entry>
+<entry name="SHAMAN_QUAKE2">我的朋友，我的朋友。你又獲得了新的力量。你去拜訪我四姨了嗎？&lt;page&gt;她就住在水晶山峰旁邊。她讓尋求她的蟲大開眼界。我沒被束縛在這裡的時候也很喜歡去拜訪她。</entry>
+<entry name="SHAMAN_SCREAM2">那尖叫？哦哦哦，好扭曲……我們蝸牛不會這種事。&lt;page&gt;不管你是從哪裡得來的這種力量，那肯定都是我們從不敢窺視的地方。</entry>
+<entry name="SHAMAN_CRYSTAL_DREAM">……把我……放出來……</entry>
+<entry name="SHAMAN_SUMMONED_2">哦吼，你回來了！你難道不喜歡我的禮物嗎？一句話不說就走了！&lt;page&gt;也許你比自己想得還勇敢！拿走屬於你的東西吧！</entry>
+<entry name="SHAMAN_FIREBALL2">這是什麼？我憤怒的贈禮在你身體裡起了變化。你把它扭曲成了……別的東西。&lt;page&gt;哦吼吼吼！我明白了，我的朋友啊！你真是一個奇迹。你的本心融合了法術。&lt;page&gt;你肯定是發現了強大的力量，才能把法術轉化成獨特又有表現力的形態呢。</entry>
+<entry name="SHAMAN_FUNG">被植物覆蓋的屍體。</entry>
+<entry name="SHAMAN_TRAPPED_1">哦吼？你終於醒了！抱歉，我應該提醒你這個法術的力量。你睡覺的時候我一直在照看你，但後來自己也睡著了！哦吼吼吼！&lt;page&gt;既然你醒了，那我就想請你幫個忙。當然不是為了報答我的禮物，完全是因為我們現在是朋友了。&lt;page&gt;你看，一頭可怕的大怪獸把窩安在了神殿中心。這是褻瀆！如果你能深入神殿幫我宰掉那傢伙，那我就真是感激不盡。&lt;page&gt;那傢伙不好對付，但新的力量會讓你和他更為勢均力敵！我的朋友！哦吼吼吼吼吼吼！</entry>
+<entry name="SHAMAN_TRAPPED_2">怎麼了？你在疑惑我們之間的門嗎？哦吼吼！這是個古怪的東西，但你宰掉神殿中心的野獸之後它才會打開。&lt;page&gt;別擔心，我祖先的靈魂一定會保護你。</entry>
+<entry name="SHAMAN_SCREAM">你從我表姐那裡套出了一個法術，對吧？真是個迷蟲的傢伙。&lt;page&gt;她平時可沒這麼大方，不像我這麼慷慨，但她的聲音真的很好聽！所以她的法術才能蘊含聲音的力量。 </entry>
+</entries>

@@ -1,0 +1,15 @@
+<entries>
+<entry name="GAME_TITLE">Hollow Knight</entry>
+<entry name="PRE_MENU_QUOTE">迷路後再次找到正確的路，這種快樂是無可比擬的。</entry>
+<entry name="GAME_DISPLAY_TITLE"></entry>
+<entry name="SAVE_WARNING">本遊戲在某些情況下會自動存檔。&lt;br&gt;如果螢幕上出現此標誌，請不要強行關閉遊戲。</entry>
+<entry name="CONTROL_PROMPT">強烈建議使用遊戲手柄</entry>
+<entry name="VERSION_NUMBER">- - -</entry>
+<entry name="PROLOGUE_EXCERPT_AUTHOR">——出自《聖巢輓歌》 由教師莫諾蒙撰寫 </entry>
+<entry name="PROLOGUE_EXCERPT_02">沒有誰能馴服我們野蠻的靈魂，而你接受了挑戰，</entry>
+<entry name="PROLOGUE_EXCERPT_03">在最蒼白的注視下，你教授，我們改變，本能得到了救贖。</entry>
+<entry name="PRE_MENU_QUOTE_AUTHOR">——柯尼法</entry>
+<entry name="PROLOGUE_EXCERPT_01">在遠方的荒野裡，提到你的名字它們都飽含敬畏與惋惜之情，</entry>
+<entry name="SNEAK_PEEK">這個搶先預覽版是空洞騎士的未完成版本，並不代表最終效果。</entry>
+<entry name="PROLOGUE_EXCERPT_04">你為蟲子和野獸帶來了它們做夢也想不到的世界。</entry>
+</entries>

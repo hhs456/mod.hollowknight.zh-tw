@@ -1,0 +1,36 @@
+<entries>
+<entry name="NO_EGGS_REPEAT">我喜歡的食物……它軟糯圓潤，彈牙利口。它散發出的氣味……光是想著就能讓我興奮。它真是此世窮奢極侈之物。</entry>
+<entry name="GREET">啊，又見面了。你最近怎麼樣？是因為你的遺憾而來找我嗎？讓我看著你的眼睛……</entry>
+<entry name="MEET1">歡迎，小闖入者。我在這裡睡了一段時間……有些時候了？&lt;page&gt;啊。是，是。現在你來了，喚醒了我。我覺得沒關係。我甚至可以幫助你。</entry>
+<entry name="RITUAL_BEGIN">嗯……我會好好享用這個小菜的。現在，按照約定，我們將開始儀式。</entry>
+<entry name="WATERWAYS">是的，我可以看到你留下的遺憾。一個黑色的污點，被管道和流水圍攏。不過它不能被沖走……</entry>
+<entry name="SHADE_OFFER">我可以召回你的遺憾，只要你與我分享美味的食物。</entry>
+<entry name="RITUAL_REPEAT">再會。我會在享用這頓大餐時記起你的。</entry>
+<entry name="SHAMAN_TEMPLE">是的，我可以看到你留下的遺憾。一個黑色的污點，在祖先的山丘……一個崇拜異端的地方。</entry>
+<entry name="CLIFFS">是的，我可以看到你留下的遺憾。一個黑色的污點，在我們頭頂上方，被嚎叫的狂風包圍著。</entry>
+<entry name="MEET2">我是吉吉，如果你找到了我的房間，你一定需要我的幫助。&lt;page&gt;你看，有時我們在世上留下遺憾，例如那黑色的污點。&lt;page&gt;如果我們不處理這些遺憾，希望就會從我們身上流失。&lt;page&gt;你有自己的遺憾嗎？讓我看著你的眼睛，只要一會兒……</entry>
+<entry name="DREAM">我一定是睡得太久了。這片土地現在變得如此黑暗，充滿了遺憾的污點。&lt;page&gt;就連空氣也混沌不堪。如果我再度睡著，黑暗會悄然而至，然後將我完全吞噬嗎？</entry>
+<entry name="ABYSS">是的，我可以看到你留下的遺憾。不過很模糊……一個黑色的污點，在這世界幽深的底部，被黑暗所包圍。幾乎成為了黑暗的一部分……</entry>
+<entry name="CROSSROADS">是的，我可以看到你留下的遺憾。一個黑色的污點，正好在我們的下面，迷失在王國那扭曲的道路和高速公路之間。</entry>
+<entry name="SHADE_OFFER_INTRO">作為一項服務，我可以召回你的遺憾，這樣它們可以任憑你處置。這是你想要的吧？&lt;page&gt;啊，但我餓死了。也許你能分一點點食物給我？我睡了好久剛醒，而你勾起了我的食慾。</entry>
+<entry name="HIVE">是的，我可以看到你留下的遺憾。一個黑色的污點，被金色的光環繞，就在遠方的蜂房。</entry>
+<entry name="DECLINE">哦？好吧，既然你沒有與遺憾和解的意願，我也愛莫能助。</entry>
+<entry name="RITUAL_COMPLETED">啊，看來你是和自己的遺憾握手言和了。而且和解的方式相當新奇，要我說的話還挺殘酷。真是一出好戲啊。就此別過了。我會在享用這頓大餐的時候記起你的。</entry>
+<entry name="WASTES">是的，我可以看到你留下的遺憾。一個黑色的污點，浮現在奇怪的真菌和起泡的湖泊之間。</entry>
+<entry name="NOSHADE">啊，你似乎沒有任何無法釋懷的遺憾。你多麼幸運。你不需要我這種服務。</entry>
+<entry name="CITY">是的，我可以看到你留下的遺憾。一個黑色的污點，在王國首都的中心地帶。雨水都無法將它洗凈。</entry>
+<entry name="SHADE_CHARM">哦哦哦。我的主人一定難以忘懷……&lt;page&gt;很少有蟲子如此徹底地處理自己的遺憾，但你似乎可以做到。&lt;page&gt;要穿過怎樣的黑暗才能達到這樣的境界啊？</entry>
+<entry name="QUEENS_STATION">是的，我可以看到你留下的遺憾。一個黑色的污點，獨自出現在王後的驛站。</entry>
+<entry name="MINES">是的，我可以看到你留下的遺憾。一個黑色的污點，幾乎被閃爍的水晶發出的光芒所掩蓋。</entry>
+<entry name="KINGS_PASS">是的，我可以看到你留下的遺憾。附近的一個黑色的污點，恰好就在這個王國的入口。</entry>
+<entry name="COLOSSEUM">是的，我可以看到你留下的遺憾。一個黑色的污點，被一群戰士和愚人所包圍……</entry>
+<entry name="NOSHADE_REPEAT">你似乎沒有遺憾。你不需要我這樣的服務。再會。</entry>
+<entry name="NO_EGGS">嗯，但你什麼吃的也沒帶。至少沒有什麼讓我感興趣的。我不能在空著肚皮幹活，所以，搞到些好吃的後再回來找我吧……要有營養的。</entry>
+<entry name="LOST_SHADE">是的，我可以看到你留下的遺憾。一個黑色的污點，在我們下方的黑暗中。</entry>
+<entry name="DEEPNEST">是的，我可以看到你留下的遺憾。一個黑色的污點，在王國幽深的巢穴隧道裡，依稀可見。</entry>
+<entry name="GREEN_PATH">是的，我可以看到你留下的遺憾。一個黑色的污點，在一個鬱鬱蔥蔥的綠地。</entry>
+<entry name="OUTSKIRTS">是的，我可以看到你留下的遺憾。一個黑色的污點，在世界的邊緣。</entry>
+<entry name="RESTING_GROUNDS">是的，我可以看到你留下的遺憾。一個黑色的污點，在那安眠的聖地。</entry>
+<entry name="FOG_CANYON">是的，我可以看到你留下的遺憾。一個黑色的污點，迷失在一片陌生地區的霧氣中。</entry>
+<entry name="ROYAL_GARDENS">是的，我可以看到你留下的遺憾。一個黑色的污點，破壞了花園的美麗。</entry>
+</entries>

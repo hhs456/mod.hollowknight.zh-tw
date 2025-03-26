@@ -1,0 +1,16 @@
+<entries>
+<entry name="CITY_OF_TEARS_1">城市倉庫</entry>
+<entry name="DIRTMOUTH">污嘴鎮</entry>
+<entry name="DEEPNEST">偏遠村落</entry>
+<entry name="KINGS_STATION">國王驛站</entry>
+<entry name="RESTING_GROUNDS">安息之地</entry>
+<entry name="HIDDEN_STATION">隱藏驛站</entry>
+<entry name="STAG_NEST">兜蟲巢穴</entry>
+<entry name="ROYAL_GARDENS">皇后花園</entry>
+<entry name="GREENPATH">綠徑</entry>
+<entry name="STATIONS">驛站</entry>
+<entry name="BONE_FOREST">骨之森</entry>
+<entry name="CROSSROADS">遺忘十字路</entry>
+<entry name="FUNGAL_WASTES">皇后驛站</entry>
+<entry name="PALACE_GROUNDS">宮殿廣場</entry>
+</entries>

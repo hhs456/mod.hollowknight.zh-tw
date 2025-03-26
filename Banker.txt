@@ -1,0 +1,20 @@
+<entries>
+<entry name="BANKER_CANCEL">你改變主意了？好吧，你隨時都可以回來。</entry>
+<entry name="BANKER_FAREWELL">再見了。注意安全。</entry>
+<entry name="BANKER_DREAM_SPA">……哦不……別過來，可怕的小東西……</entry>
+<entry name="BANKER_DEPOSIT">親愛的，做得很好！我會保護好你的吉歐的。</entry>
+<entry name="BANKER_BALANCE_ZERO">我……我已經沒有錢了……我……啊，我想，你現在應該離開了吧？&lt;page&gt;好……好，我覺得這樣最好……</entry>
+<entry name="BANKER_GREET">你好啊，親愛的！想要辦一些銀行業務？</entry>
+<entry name="BANKER_REMEET">你有重新考慮過開個賬戶嗎？失去吉歐是一件可怕的事情。&lt;page&gt;在這個又大又危險的世界裡闖蕩，知道你的吉歐安全的在我這裡會讓你安心不少。</entry>
+<entry name="BANKER_ACCT_OPEN">你是個聰明蟲。當下次你被野獸撕碎的時候，會慶幸的發現你的錢正安全的躺在我的口袋……呃……我是說保險箱裡。&lt;page&gt;現在我們來辦些銀行業務吧。</entry>
+<entry name="BANKER_SPA_GREET">哇？哦，你……你回來了。我只是覺得，上次將是我最後一次……呃……看到你。&lt;page&gt;這……你的吉歐啊。你應當知道，對我來說要保管好吉歐也是壓力很大的。其實因為壓力太大我已經永遠離開了銀行業。</entry>
+<entry name="BANKER_ACCT_DECLINE_AGAIN">還是不感興趣？你太優柔寡斷了。大膽地做出決定並實行！這是讓財富增長的秘訣。 </entry>
+<entry name="BANKER_MEET">你好，親愛的。在你來之前，我正要關門大吉去另外的地方呢。如果你有興趣的話，我這提供銀行服務。&lt;page&gt;如果你一直把吉歐帶在身上的話，你很有可能會失去它們，這多麼令蟲害怕啊！&lt;page&gt;我的保險箱要安全多了。我當了這麼多年的銀行家，從來沒有丟過一個吉歐！&lt;page&gt;也許你會考慮在我這開個銀行賬戶？</entry>
+<entry name="BANKER_SPA_MEET">哦……啊，又見面了親愛的。真想不到會在這遇見你。&lt;page&gt;你說你在找你的錢？好……吧，你看，是這樣的。說起來很令蟲難過，但……它們已經被花完了。&lt;page&gt;銀行運行需要的成本是很高的，所以我不得不從你的賬戶中抽取一筆大額的服務費。&lt;page&gt;這當然是完全合法的。只是整個銀行交易的一部分……啊哈哈……哈。&lt;page&gt;但是……嗯，能在這見面我感到十分高興，請你離開一會好嗎。如果你能給我點私蟲時間，我就可以很快泡完。然後你就可以獨享溫泉啦。</entry>
+<entry name="BANKER_BALANCE_ZERO_REPEAT">……我覺得我可……可能只是在這兒休息一小會兒。是的，我覺得這樣最好。</entry>
+<entry name="BANKER_ACCT_DECLINE">我理解你不想與這些來之不易的吉歐分開的心情。如果你改變主意的話，我隨時都在。</entry>
+<entry name="BANKER_ACCT_NOTENOUGH">哦，等等，真可惜。要開一個銀行賬戶的話你的吉歐還不夠多，當你湊夠 100 個吉歐的時候再回來，我會幫你開戶的。</entry>
+<entry name="BANKER_WITHDRAW">感謝您的提款。別一次把他們都花完！</entry>
+<entry name="BANKER_SPA_REPEAT">……別……別生氣，好嗎？</entry>
+<entry name="BANKER_DREAM">……什麼時候才能再去一次那令蟲愉悅的溫泉呢？那裡的泉水可以讓我那緊張的殼完全放鬆下來……</entry>
+</entries>
