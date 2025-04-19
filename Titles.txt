@@ -152,7 +152,7 @@
 <entry name="BANKER2_SUB"></entry>
 <entry name="GH_CASPIAN_C_SUB">設計：Quatropus</entry>
 <entry name="ELDERBUG_SUPER"></entry>
-<entry name="HORNET_MAIN">紅螚忒</entry>
+<entry name="HORNET_MAIN">紅奈忒</entry>
 <entry name="CLOTH_C_SUB">設計：Noah Sturtridge</entry>
 <entry name="BLACK_KNIGHT_SUPER"></entry>
 <entry name="GH_POGGY_C_SUB">設計：Josh Clark</entry>

@@ -241,8 +241,8 @@
 <entry name="FLUKE_HERMIT_IDLE_2">真吵…咕啦咕啦…好嚇蟲…待在這裡，咕啦…</entry>
 <entry name="FLUKE_HERMIT_IDLE_5">更強壯…咕啦咕啦…更巨大…母親…</entry>
 <entry name="FLUKE_HERMIT_IDLE_4">很安全，咕啦…小妹妹們…咕啦咕啦…</entry>
-<entry name="NAME_HORNET_2">崗哨紅螚忒</entry>
-<entry name="NAME_HORNET_1">守護者紅螚忒</entry>
+<entry name="NAME_HORNET_2">崗哨紅奈忒</entry>
+<entry name="NAME_HORNET_1">守護者紅奈忒</entry>
 <entry name="NOTE_PURE_VESSEL">“神聖外殼中最深處之沉寂，&lt;br&gt;予以骨釘，冠以騎士之名，&lt;br&gt;為鎖鏈、卵與法術所束縛，&lt;br&gt;聆聽吾等之祈願！顯露汝之光芒！”&lt;br&gt;——容器禱詞</entry>
 <entry name="GG3ACHIEVE_TITLE">專注</entry>
 <entry name="GG_LOCKED_DESC_NAILMASTERS">我們一同立於萬神殿之巔</entry>

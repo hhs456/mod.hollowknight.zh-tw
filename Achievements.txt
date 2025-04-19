@@ -70,14 +70,14 @@
 <entry name="NAILSMITH_KILL_TEXT">用純粹骨釘消滅釘匠</entry>
 <entry name="COLOSSEUM_2_TITLE">征服者</entry>
 <entry name="WHITE_DEFENDER_TITLE">記憶</entry>
-<entry name="ENDING_B_TEXT">與紅螚忒特合力擊敗空同騎士</entry>
+<entry name="ENDING_B_TEXT">與紅奈忒合力擊敗空同騎士</entry>
 <entry name="STAG_STATION_HALF_TITLE">連接</entry>
 <entry name="MOURNER_TEXT">給灰色哀悼者帶來安寧</entry>
 <entry name="ENDINGD_TITLE">擁抱虛空</entry>
 <entry name="HUNTER_2_TITLE">真正的獵人</entry>
 <entry name="FK_DEFEAT_TITLE">虛假</entry>
 <entry name="TEACHER_TEXT">消滅教師莫諾蒙</entry>
-<entry name="HORNET_1_TEXT">在蒼綠之徑擊敗紅螚忒</entry>
+<entry name="HORNET_1_TEXT">在鬱綠棧道擊敗紅奈忒</entry>
 <entry name="ENCHANTED_TITLE">附魔</entry>
 <entry name="MASKED_TEXT">獲得所有面具碎片</entry>
 <entry name="COMPLETIONGG_TEXT">通關並達成 112％ 的遊戲完成度</entry>
@@ -123,7 +123,7 @@
 <entry name="BEAST_TITLE">野獸</entry>
 <entry name="ENDING_C_TEXT">擊敗輻光并吞噬光芒</entry>
 <entry name="TRAITOR_LORD_TITLE">處決</entry>
-<entry name="HORNET_2_TEXT">在王國邊緣擊敗紅螚忒</entry>
+<entry name="HORNET_2_TEXT">在王國邊緣擊敗紅奈忒</entry>
 <entry name="ACH_TEXT_TEST">這是一個測試成就描述</entry>
 <entry name="CHARMED_TEXT">獲得你的第一個護符</entry>
 <entry name="WHITE_DEFENDER2_TEXT">在白色防禦者的夢境中取得一席之地</entry>
