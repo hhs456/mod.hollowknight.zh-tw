@@ -11,7 +11,7 @@
 <entry name="NOTE_CRYS_LAZER_BUG">這些生物看起來很脆弱，但有時灼熱的光柱會從它們背上的晶體中射出。小心點，把握好進攻的時機！</entry>
 <entry name="NOTE_CRYS_FLYER">在世界之巔建立家園。它們是自願使用晶體作為武器，還是只是晶體寄生的宿主？</entry>
 <entry name="NAME_MUSH_ROLLER">蘑菇戰士</entry>
-<entry name="NAME_FINAL_BOSS">輻光</entry>
+<entry name="NAME_FINAL_BOSS">輝光</entry>
 <entry name="NAME_MAGEBLOB">錯誤</entry>
 <entry name="NAME_GORGEOUS_HUSK">華麗軀殼</entry>
 <entry name="DESC_MOSSMAN_SHAKER">植物般的蟲子，因感染而腫脹。受到威脅時會釋放出致命氣體。</entry>

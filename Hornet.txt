@@ -2,11 +2,11 @@
 <entry name="HORNET_ABYSS_REPEAT">我會促使你選擇更艱難的道路，但最終選擇什麼結局還是由你自己決定。</entry>
 <entry name="HORNET_PRE_FINAL_BATTLE_REPEAT">聖巢的陰魂啊，你擁有選擇結局的力量。你是要接替我們那生來就受到詛咒的手足，還是要超越它？</entry>
 <entry name="HORNET_FINAL_BOSS">去吧，做出你的選擇！我的絲線只能堅持片刻。&lt;page&gt;延續我們世界的停滯，或者正面感染的中心。</entry>
-<entry name="HORNET_PRE_FINAL_BATTLE">道路已經敞開。 無論如何，裡面等待你的只有結局。&lt;page&gt;我不會與你一同前往。這個空間是為了你這樣的物種所打造。我進去的話就會被束縛並抽乾。&lt;page&gt;不用感到錯愕。我不會為了你而冒生命危險，但如果那一刻到來，我也會竭盡所能地幫助你。</entry>
-<entry name="HORNET_PRE_FINAL_BATTLE_DREAM">……它能完成那不可能的使命嗎？它該這麼做嗎？</entry>
-<entry name="HORNET_GREENPATH">不要再靠近了，陰魂。&lt;page&gt;我看到你了，在灌木叢中偷偷摸摸地跟蹤我。&lt;page&gt;這個古老的王國裡……一個可怕的東西覺醒了。我可以在空氣中嗅到它的氣息……&lt;page&gt;我知道你是誰，也知道你想做什麼。我要阻止你。</entry>
-<entry name="HORNET_SPIDER_TOWN_REPEAT">離開吧，陰魂。在這個寢室永遠成為陵寢之前讓我一個人靜靜。</entry>
-<entry name="HORNET_OUTSKIRTS_1">那麼你要繼續挖掘真相嗎？這可不是弱者能承擔的東西。</entry>
+<entry name="HORNET_PRE_FINAL_BATTLE">道路已經敞開。 無論如何，裡面等待你的只有結局。&lt;page&gt;我不會與你一起過去。這個空間是為了你這樣的物種所打造。我進去的話就會被束縛並抽乾。&lt;page&gt;別那麼驚訝。我可不會為了你冒生命危險，但如果那一刻到來，我還是會盡可能地協助你。</entry>
+<entry name="HORNET_PRE_FINAL_BATTLE_DREAM">……它能夠實現那不可能的成就嗎？它應該去做嗎？</entry>
+<entry name="HORNET_GREENPATH">不要再靠近了，陰魂。&lt;page&gt;我看到你了，在灌木叢中偷偷摸摸地跟蹤我。&lt;page&gt;這個古老的王國裡……某種可怕的東西甦醒了。我能在空氣中嗅到它的氣息……&lt;page&gt;我知道你是誰，也知道你想做什麼，而我不能讓你這麼做。</entry>
+<entry name="HORNET_SPIDER_TOWN_REPEAT">離開我身邊，陰魂。在這個寢室永遠成為陵寢之前讓我一個人靜靜。</entry>
+<entry name="HORNET_OUTSKIRTS_1">所以你要繼續探究更深的真相嗎？這可不是弱者能承擔的東西。</entry>
 <entry name="HORNET_DOOR_UNOPENED">你的表現令我印象深刻，陰魂。你肩負著這整個世界的命運，卻依然如此頑強。&lt;page&gt;光是撤除守夢者的封印就已經是不可能的任務，而接納自己虛無的內在，更加凸顯了你的不平凡。</entry>
 <entry name="HORNET_SPIDER_TOWN_DREAM">……母親……原諒我的袖手旁觀……但也許我們可以選擇另一條道路……</entry>
 <entry name="HORNET_INSPECT_IK">漫遊者的遺骸，死去很久了。</entry>

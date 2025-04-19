@@ -94,7 +94,7 @@
 <entry name="LANG_IT">意大利語 </entry>
 <entry name="VIDEO_FRAME_CAP">限制幀率：</entry>
 <entry name="LANG_ES">西班牙語</entry>
-<entry name="CTRL_NO_ACTIVE_DESC">按下控制器上的按鍵或連接新控制器以激活</entry>
+<entry name="CTRL_NO_ACTIVE_DESC">按下控制器上的按鍵或連接新控制器以驅動</entry>
 <entry name="BUTTON_QCAST">快速施法</entry>
 <entry name="BUTTON_CAST">聚集/施法</entry>
 <entry name="CTRL_DETACHED">未連接遊戲控制器</entry>

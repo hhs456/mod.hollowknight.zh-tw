@@ -3,7 +3,7 @@
 <entry name="PRE_MENU_QUOTE">迷路後再次找到正確的路，這種快樂是無可比擬的。</entry>
 <entry name="GAME_DISPLAY_TITLE"></entry>
 <entry name="SAVE_WARNING">本遊戲在某些情況下會自動存檔。&lt;br&gt;如果螢幕上出現此標誌，請不要強行關閉遊戲。</entry>
-<entry name="CONTROL_PROMPT">強烈建議使用遊戲手柄</entry>
+<entry name="CONTROL_PROMPT">強烈建議使用遊戲控制器</entry>
 <entry name="VERSION_NUMBER">- - -</entry>
 <entry name="PROLOGUE_EXCERPT_AUTHOR">——出自《聖巢輓歌》 由教師莫諾蒙撰寫 </entry>
 <entry name="PROLOGUE_EXCERPT_02">沒有誰能馴服我們野蠻的靈魂，而你接受了挑戰，</entry>

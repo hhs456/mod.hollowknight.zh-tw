@@ -241,14 +241,14 @@
 <entry name="FLUKE_HERMIT_IDLE_2">真吵…咕啦咕啦…好嚇蟲…待在這裡，咕啦…</entry>
 <entry name="FLUKE_HERMIT_IDLE_5">更強壯…咕啦咕啦…更巨大…母親…</entry>
 <entry name="FLUKE_HERMIT_IDLE_4">很安全，咕啦…小妹妹們…咕啦咕啦…</entry>
-<entry name="NAME_HORNET_2">崗哨大黃蜂</entry>
-<entry name="NAME_HORNET_1">守護者大黃蜂</entry>
+<entry name="NAME_HORNET_2">崗哨紅螚忒</entry>
+<entry name="NAME_HORNET_1">守護者紅螚忒</entry>
 <entry name="NOTE_PURE_VESSEL">“神聖外殼中最深處之沉寂，&lt;br&gt;予以骨釘，冠以騎士之名，&lt;br&gt;為鎖鏈、卵與法術所束縛，&lt;br&gt;聆聽吾等之祈願！顯露汝之光芒！”&lt;br&gt;——容器禱詞</entry>
-<entry name="GG3ACHIEVE_TITLE">專註</entry>
+<entry name="GG3ACHIEVE_TITLE">專注</entry>
 <entry name="GG_LOCKED_DESC_NAILMASTERS">我們一同立於萬神殿之巔</entry>
 <entry name="MATO_2">別把我丟在後面！</entry>
 <entry name="UI_CHALLENGE_TITLE_SUPER_5"></entry>
-<entry name="PANTHEON_ENTER_1">不知感恩為何物的蛆蟲！諸神以莫大的慈悲放允爾輩從首個萬神殿逃脫而不死，爾輩卻還妄想要對抗諸尊偉力以考驗自身？&lt;br&gt;&lt;page&gt;那爾輩便去自取滅亡，是以吾等才能重新專註，進升吾等之思想！</entry>
+<entry name="PANTHEON_ENTER_1">不知感恩為何物的蛆蟲！諸神以莫大的慈悲放允爾輩從首個萬神殿逃脫而不死，爾輩卻還妄想要對抗諸尊偉力以考驗自身？&lt;br&gt;&lt;page&gt;那爾輩便去自取滅亡，是以吾等才能重新專注，進升吾等之思想！</entry>
 <entry name="GG_S_MAWLEK">孤獨的巢穴之神</entry>
 <entry name="MAGE_KNIGHT_SUB"></entry>
 <entry name="GG_S_FAILED_CHAMPION">兇惡的悔恨之神</entry>
@@ -260,7 +260,7 @@
 <entry name="DUNG_UNDERGROUND_1">啊！你醒了，而且看起來很有精神！&lt;page&gt;
 我起來的時候發現你蜷著身子躺在我旁邊，嚇了我一跳。不過，我倒是很歡迎你在對這個世界感到厭倦的時候到這裡來休息的。&lt;page&gt;
 正如國王將流浪者收留在這個國度一樣，我的住所也向你敞開。這裡溫暖、濕潤又舒適，你想待多久就可以待多久。</entry>
-<entry name="DESC_PALE_LURKER">被遺忘的斗獸場冠軍，被奇怪的執念吸引走了。</entry>
+<entry name="DESC_PALE_LURKER">被遺忘的競技場冠軍，被奇怪的執念吸引走了。</entry>
 <entry name="SISTERS_MAIN">戰鬥姐妹</entry>
 <entry name="PLATINUM_DESC">獲得其他所有獎盃</entry>
 <entry name="GG_S_GHOST_MARKOTH">冥想與孤立之夢中神</entry>
@@ -321,12 +321,12 @@
 <entry name="DUNG_UNDERGROUND_2">這個洞穴大概和宮殿的精緻華麗差得很遠，不過即使如此，我曾經的戰友和我們尊敬的國王的種種回憶，仍然深深刻印在我的腦海中。&lt;page&gt;
 蒼白之殿是一個奇偉的地方，那個時代最偉大的英雄都匯聚在那裡。啊！看看你現在的模樣，你立於他們之中的場景彷彿就近在眼前。</entry>
 <entry name="NAME_PAINTMASTER">繪畫大師席奧</entry>
-<entry name="TROPHIES_BASE_SET_TITLE">空洞騎士獎盃</entry>
+<entry name="TROPHIES_BASE_SET_TITLE">空同騎士獎盃</entry>
 <entry name="ENDING_D_TEXT">在聖巢萬神殿進升並步入巔峰之列</entry>
 <entry name="GODSEEKER_ENGINE_WYRM_REPEAT">如此強大之神……卻已無影無蹤抹去殆盡。何以至此？</entry>
 <entry name="GG_S_HORNET">失落之地的神明護衛者</entry>
 <entry name="AMELITIA_FLOWER">哈！好一個奇妙的標本。不過即使是它這純潔的光環也無法和我們尊敬的國王的光輝媲美。&lt;page&gt;留著你那細弱的植物吧，蟲子。我已經有很多植物要照料了，並且你一定會贊同我的植物要比你的好得多。</entry>
-<entry name="PS4_ACHIEVE_ENDING_TEXT">擊敗空洞騎士並完成遊戲</entry>
+<entry name="PS4_ACHIEVE_ENDING_TEXT">擊敗空同騎士並完成遊戲</entry>
 <entry name="GG_S_BIGBUZZ">兇惡的領土之神</entry>
 <entry name="MODE_GODSGLORY">尋神者</entry>
 <entry name="GG_LOCKED_DESC_FLUKEMUM">我身處於迷宮般的管道之間</entry>
@@ -342,7 +342,7 @@
 <entry name="GODSEEKER_ENGINE_GGMODE">諸神之神！如此清晰，如此顯然。尊駕那矮小的軀殼難以掩飾您壓倒性的力量。&lt;page&gt;吾輩竟一度沒有發現這般明顯的事實，真是無地自容。請務必懲罰吾輩！碾壓吾輩！請向可悲的吾輩落下骨釘鞭撻之雨。對這般神聖的復仇吾輩欣然接受！</entry>
 <entry name="DESC_VOID_IDOL_2">比聖巢時代更為久遠的罕見工藝品。裡面翻騰著深淵的揮發性液體。</entry>
 <entry name="GG_LOCKED_DESC_GHOST_HU">我在荒地中沉夢</entry>
-<entry name="GG_LOCKED_DESC_BIGBEES">我們被一起關在一座奇怪的斗獸場裡</entry>
+<entry name="GG_LOCKED_DESC_BIGBEES">我們被一起關在一座奇怪的競技場裡</entry>
 <entry name="GG5ACHIEVE_TEXT">通關並達成 112％ 的遊戲完成度</entry>
 <entry name="UI_MENU_EXTRA_GT_DESC">免費內容包 02&lt;br&gt;&lt;br&gt;發布日期：2017 年萬聖節&lt;br&gt;&lt;br&gt;說明：參與一場匪夷所思的儀式，完成一次橫跨王國全境的任務，並獲得一個強大的盟友。&lt;br&gt;&lt;br&gt;全新的護符：4 個新護符給你帶來獨特的能力和加成。&lt;br&gt;&lt;br&gt;新敵蟲：以這些邪惡的對手磨練一下揮釘和施法的技術。&lt;br&gt;&lt;br&gt;新朋友：結識一群奇異的蟲子，另外對於吉歐太多的玩家會有一項特殊服務。&lt;br&gt;&lt;br&gt;新音樂：由克裡斯托弗·拉金創作的令蟲毛骨悚然的靈異音樂。</entry>
 <entry name="OBLOBBLES_SUB"></entry>
@@ -387,7 +387,7 @@
 <entry name="ABSOLUTE_RADIANCE_SUPER"></entry>
 <entry name="GODSEEKER_ENGINE_REPEAT_2">毋需逗留，懦夫中的懦夫！向前走，接受爾輩之神罰！</entry>
 <entry name="GODSEEKER_ENGINE_REPEAT_3">爾輩是否理解吾等之詞？爾輩是否願意放任自身為此神殿之神明毀滅？爾輩是否會讓吾等重新開始神聖之調諧？</entry>
-<entry name="TROPHIES_BASE_SET_TEXT">《空洞騎士》的獎盃</entry>
+<entry name="TROPHIES_BASE_SET_TEXT">《空同騎士》的獎盃</entry>
 <entry name="UI_CHALLENGE_TITLE_SUPER_2"></entry>
 <entry name="NIGHTMARE_GRIMM_GG_2">最深處的力量…心臟…</entry>
 <entry name="MAGE_KNIGHT_MAIN">靈魂戰士</entry>

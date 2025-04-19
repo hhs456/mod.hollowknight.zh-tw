@@ -1,10 +1,10 @@
 <entries>
 <entry name="DREAM_CITY">聖巢的中心……即使在衰敗之中也這麼壯美。</entry>
-<entry name="QUIRREL_GREENPATH_1">你好啊！看來我們都遠離大道了。&lt;page&gt;真不敢相信這些灰塵撲撲的舊公路能帶我來到這麼綠意盎然的地方！&lt;page&gt;這座建築和崇拜偶像有關係，不過顯然這個偶像早已被蟲遺忘。在這裡喘口氣也挺不錯。</entry>
-<entry name="QUIRREL_QUEENSTATION_02">你能想象這裡在全盛時期時的樣子嗎？大群大群的蟲子都在王國裡旅行，兜蟲鈴響個不停，車站裡熱鬧得很，活力四射。&lt;page&gt;即使已經衰敗，我還是覺得來欣賞這些景色也是很特別的體驗。</entry>
+<entry name="QUIRREL_GREENPATH_1">哦，你好呀！看來我們偏離了原來的路徑。&lt;page&gt;真不敢相信這些塵封的道路能帶我來到這麼綠意盎然的地方！&lt;page&gt;這座建築物似乎是某種宗教崇拜的場所，雖然這名神靈顯然早就被遺忘了。不過，這裡還是很適合休息片刻。</entry>
+<entry name="QUIRREL_QUEENSTATION_02">你能想象這裡在全盛時期時的樣子嗎？大群大群的蟲子都在王國裡旅行，兜蟲鈴響個不停，車站裡熱鬧得很，活力四射。&lt;page&gt;即使是斷壁殘垣，能緬懷這樣的景色還是一種很別緻的體驗。</entry>
 <entry name="QUIRREL_GREENPATH_3">你的骨釘不錯，但有些磨損了。&lt;page&gt;我敢說在上面的話它還能支撐很長一段時間，但在下面恐怕很快就會遇到不能和地表相提並論的危險。</entry>
 <entry name="DREAM_EGGTEMPLE">這是什麼感覺？……好熟悉。吸引我上前卻又讓我有些排斥。&lt;page&gt;還有門上的圖案……盯著它們看讓我的腦子裡一片混沌。</entry>
-<entry name="QUIRREL_TEACHER_2">不要猶豫。是她選擇了變革，而不是我。&lt;page&gt;她知道你會做什麼，似乎也很希望你這麼做。 </entry>
+<entry name="QUIRREL_TEACHER_2">不需要猶豫。是她選擇了改變，而不是我。&lt;page&gt;她知道你要做什麼，看起來她也很希望你這麼做。 </entry>
 <entry name="DREAM_QUEENSTATION">就算是大兜蟲也要臣服於聖巢之王。他肯定特別擅長激勵別蟲。</entry>
 <entry name="QUIRREL_TEMPLE_2">未使用</entry>
 <entry name="QUIRREL_TEMPLE_3">未使用</entry>

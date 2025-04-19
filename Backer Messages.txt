@@ -13,7 +13,7 @@
 <entry name="BELIEVE_TAB_57">可愛的阿特拉&lt;br&gt;&lt;br&gt;阿特拉，我們感謝你。我們會永遠記住你。</entry>
 <entry name="BELIEVE_TAB_40">波特吉爾&lt;br&gt;&lt;br&gt;永不停步，無需動搖。光明與你同在。</entry>
 <entry name="BELIEVE_TAB_37">納森·戴維斯&lt;br&gt;&lt;br&gt;勇敢之蟲啊。不要忽視你的骨釘。如果你認真對待它，它就永遠不會讓你失望。但請牢記：骨釘本身沒有力量，除非揮舞它的蟲有勇氣。相信自己！</entry>
-<entry name="BELIEVE_TAB_56">喬尼·卡納留斯&lt;br&gt;&lt;br&gt;相信自己，你會成功。相信他蟲，你就會繁榮。</entry>
+<entry name="BELIEVE_TAB_56">喬尼·卡納留斯&lt;br&gt;&lt;br&gt;相信自己，你會成功。相信其他蟲，你才會昌榮。</entry>
 <entry name="BELIEVE_TAB_61">邁克爾·克萊默&lt;br&gt;&lt;br&gt;哲學家</entry>
 <entry name="BELIEVE_TAB_63">艾登·艾克斯爾&lt;br&gt;&lt;br&gt;希望這條消息能鼓舞所有蟲。征服這個世界，以及世上的一切。祝你好運，再見！</entry>
 <entry name="BELIEVE_TAB_26">吉布斯·蒙提夫&lt;br&gt;&lt;br&gt;祝你好運，骷髏！</entry>

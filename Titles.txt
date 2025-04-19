@@ -1,6 +1,6 @@
 <entries>
 <entry name="WHITE_PALACE_SUB"></entry>
-<entry name="ROYAL_GARDENS_MAIN">皇后花園</entry>
+<entry name="ROYAL_GARDENS_MAIN">王后花園</entry>
 <entry name="FINAL_BOSS_SUB"></entry>
 <entry name="GODSEEKER_WASTE_SUB"></entry>
 <entry name="ELDERBUG_MAIN">蟲長者</entry>
@@ -91,7 +91,7 @@
 <entry name="MAGE_LORD_DREAM_MAIN">靈魂暴君</entry>
 <entry name="WEAVERS_DEN_SUPER"></entry>
 <entry name="GH_ALADAR_NC_MAIN">戈布</entry>
-<entry name="GREENPATH_MAIN">綠徑</entry>
+<entry name="GREENPATH_MAIN">鬱綠棧道</entry>
 <entry name="GH_WYATT_NC_SUB"></entry>
 <entry name="FINAL_BOSS_SUPER"></entry>
 <entry name="FUNGUS_SHAMAN_SUB"></entry>
@@ -104,7 +104,7 @@
 <entry name="DIVINE_SUB"></entry>
 <entry name="GH_CHAGAX_C_MAIN">查噶克斯醫生</entry>
 <entry name="PEAK_SUPER"></entry>
-<entry name="GH_HIVEQUEEN_NC_SUPER">蜂巢女王</entry>
+<entry name="GH_HIVEQUEEN_NC_SUPER">蜂后</entry>
 <entry name="GH_JONI_NC_SUPER">藍色之子</entry>
 <entry name="OVERGROWN_MOUND_MAIN">叢生土墩</entry>
 <entry name="CROSSROADS_SUPER"></entry>
@@ -152,13 +152,13 @@
 <entry name="BANKER2_SUB"></entry>
 <entry name="GH_CASPIAN_C_SUB">設計：Quatropus</entry>
 <entry name="ELDERBUG_SUPER"></entry>
-<entry name="HORNET_MAIN">大黃蜂</entry>
+<entry name="HORNET_MAIN">紅螚忒</entry>
 <entry name="CLOTH_C_SUB">設計：Noah Sturtridge</entry>
 <entry name="BLACK_KNIGHT_SUPER"></entry>
 <entry name="GH_POGGY_C_SUB">設計：Josh Clark</entry>
 <entry name="GH_KARINA_C_SUB">設計：Karina Weber</entry>
 <entry name="GH_KCIN_C_SUPER"></entry>
-<entry name="QUIRREL_MAIN">奎若</entry>
+<entry name="QUIRREL_MAIN">夸絡</entry>
 <entry name="GH_NOEYES_NC_MAIN">無眼</entry>
 <entry name="CROSSROADS_SUB"></entry>
 <entry name="HUNTER_SUPER"></entry>
@@ -184,7 +184,7 @@
 <entry name="KINGSPASS_SUB"></entry>
 <entry name="QUEEN_SUPER"></entry>
 <entry name="GH_CHAGAX_NC_SUB"></entry>
-<entry name="COLOSSEUM_MAIN">蠢蛋斗獸場</entry>
+<entry name="COLOSSEUM_MAIN">蠢蛋競技場</entry>
 <entry name="FUNGUS_CORE_SUPER"></entry>
 <entry name="GH_BOSS_NC_SUB"></entry>
 <entry name="WHITE_PALACE_SUPER"></entry>
@@ -199,8 +199,8 @@
 <entry name="MIMIC_SPIDER_SUB"></entry>
 <entry name="GH_XERO_C_SUB">設計：Constant Pham</entry>
 <entry name="OBLOBBLES_SUPER"></entry>
-<entry name="GH_HIVEQUEEN_C_SUPER">蜂巢女王</entry>
-<entry name="CORNIFER_MAIN">柯尼法</entry>
+<entry name="GH_HIVEQUEEN_C_SUPER">蜂后</entry>
+<entry name="CORNIFER_MAIN">科尼弗爾</entry>
 <entry name="ZOTE_SUB"></entry>
 <entry name="CORNIFER_SUB"></entry>
 <entry name="GH_ALADAR_C_MAIN">戈布</entry>
@@ -226,7 +226,7 @@
 <entry name="GRIMM_SUPER">劇團團長</entry>
 <entry name="KINGSPASS_SUPER"></entry>
 <entry name="COLLECTOR_MAIN">收藏家</entry>
-<entry name="WATERWAYS_MAIN">皇家水道</entry>
+<entry name="WATERWAYS_MAIN">王家水道</entry>
 <entry name="MAGE_LORD_SUB"></entry>
 <entry name="GIRAFFE_SUPER"></entry>
 <entry name="GREY_PRINCE_EXTRA8">神氣的</entry>
@@ -252,7 +252,7 @@
 <entry name="MONOMON_ARCHIVE_MAIN">教師檔案館</entry>
 <entry name="GH_GRASSHOPPER_C_SUPER">凱利福和菲拉</entry>
 <entry name="JIJI_MAIN">吉吉</entry>
-<entry name="KINGS_STATION_MAIN">國王驛站</entry>
+<entry name="KINGS_STATION_MAIN">國王車站</entry>
 <entry name="GH_KCIN_C_MAIN">可辛</entry>
 <entry name="MANTIS_VILLAGE_SUPER"></entry>
 <entry name="BIG_CATERPILLAR_SUB"></entry>
@@ -279,7 +279,7 @@
 <entry name="INFECTED_KNIGHT_SUPER"></entry>
 <entry name="CLIFFS_SUPER"></entry>
 <entry name="MANTIS_VILLAGE_SUB"></entry>
-<entry name="FINAL_BOSS_MAIN">輻光</entry>
+<entry name="FINAL_BOSS_MAIN">輝光</entry>
 <entry name="GH_HEX_C_SUB">設計：B. B. Williams</entry>
 <entry name="WYRMSKIN_SUB"></entry>
 <entry name="RUINED_TRAMWAY_SUPER"></entry>
@@ -354,7 +354,7 @@
 <entry name="NIGHTMARE_GRIMM_SUB"></entry>
 <entry name="GH_KCIN_NC_MAIN">可辛</entry>
 <entry name="GLADE_SUPER"></entry>
-<entry name="QUEENS_STATION_MAIN">皇后驛站</entry>
+<entry name="QUEENS_STATION_MAIN">王后車站</entry>
 <entry name="BIG_CATERPILLAR_MAIN">巴冬</entry>
 <entry name="CLIFFS_SUB"></entry>
 <entry name="GH_HIVEQUEEN_NC_SUB"></entry>
@@ -376,7 +376,7 @@
 <entry name="GH_MAGNUS_C_MAIN">馬格努斯·斯特朗</entry>
 <entry name="MAGE_TOWER_MAIN">靈魂聖所</entry>
 <entry name="ENRAGED_GUARDIAN_SUB"></entry>
-<entry name="WYRMSKIN_MAIN">遺棄外殼</entry>
+<entry name="WYRMSKIN_MAIN">遺蛻外殼</entry>
 <entry name="LOVE_TOWER_MAIN">愛之塔</entry>
 <entry name="GH_HEX_NC_SUB"></entry>
 <entry name="GH_KARINA_NC_SUPER"></entry>
@@ -389,7 +389,7 @@
 <entry name="STORMLAND_MAIN">風暴之地</entry>
 <entry name="MAGE_TOWER_SUB"></entry>
 <entry name="CRYSTAL_GUARDIAN_SUB"></entry>
-<entry name="MAWLEK_MAIN">躁鬱的毛裡克</entry>
+<entry name="MAWLEK_MAIN">躁鬱的毛里克</entry>
 <entry name="MONOMON_ARCHIVE_SUB"></entry>
 <entry name="GH_CHAGAX_NC_MAIN">查噶克斯醫生</entry>
 <entry name="BIGFLY_MAIN">格魯茲之母</entry>
@@ -432,7 +432,7 @@
 <entry name="GH_CASPIAN_C_SUPER"></entry>
 <entry name="GH_GARRO_C_MAIN">加羅</entry>
 <entry name="TISO_C_MAIN">提索</entry>
-<entry name="HIDDEN_STATION_MAIN">隱藏的鹿角站</entry>
+<entry name="HIDDEN_STATION_MAIN">隱藏的兜蟲站</entry>
 <entry name="GH_BOSS_NC_SUPER"></entry>
 <entry name="FUNGUS_SHAMAN_SUPER"></entry>
 <entry name="BATHHOUSE_FULL">歡樂之屋</entry>
@@ -442,7 +442,7 @@
 <entry name="HEGEMOL_NEST_MAIN">野獸巢穴</entry>
 <entry name="DREAM_MOTH_SUPER"></entry>
 <entry name="HUNTER_SUB"></entry>
-<entry name="OUTSKIRTS_MAIN">王國邊緣</entry>
+<entry name="OUTSKIRTS_MAIN">王國邊界</entry>
 <entry name="GH_HU_NC_SUB"></entry>
 <entry name="LOBSTER_LANCER_C_SUB">設計：Dmitry Shcherbakov</entry>
 <entry name="GH_THISTLEWIND_NC_SUB"></entry>
@@ -587,7 +587,7 @@
 <entry name="DIRTMOUTH_SUB"></entry>
 <entry name="GH_MILLY_NC_SUPER"></entry>
 <entry name="HEGEMOL_NEST_SUB"></entry>
-<entry name="CROSSROADS_INF_MAIN">感染的十字路</entry>
+<entry name="CROSSROADS_INF_MAIN">感染的岔路</entry>
 <entry name="CORNIFER_SUPER"></entry>
 <entry name="GREY_PRINCE_EXTRA7">勤勉的</entry>
 <entry name="ABSOLUTE_RADIANCE_SUPER"></entry>
