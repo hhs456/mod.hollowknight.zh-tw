@@ -1,15 +1,15 @@
 <entries>
-<entry name="GAME_TITLE">Hollow Knight</entry>
-<entry name="PRE_MENU_QUOTE">迷路後再次找到正確的路，這種快樂是無可比擬的。</entry>
+<entry name="GAME_TITLE">空洞騎士</entry>
+<entry name="PRE_MENU_QUOTE">迷路了，然後再次找到方向，是無與倫比的樂趣。</entry>
 <entry name="GAME_DISPLAY_TITLE"></entry>
-<entry name="SAVE_WARNING">本遊戲在某些情況下會自動存檔。&lt;br&gt;如果螢幕上出現此標誌，請不要強行關閉遊戲。</entry>
-<entry name="CONTROL_PROMPT">強烈建議使用遊戲控制器</entry>
+<entry name="SAVE_WARNING">本遊戲會在特定時間點自動儲存資料。&lt;br&gt;當此符號顯示時，請勿關閉軟體。</entry>
+<entry name="CONTROL_PROMPT">強烈建議使用控制器</entry>
 <entry name="VERSION_NUMBER">- - -</entry>
-<entry name="PROLOGUE_EXCERPT_AUTHOR">——出自《聖巢輓歌》 由教師莫諾蒙撰寫 </entry>
-<entry name="PROLOGUE_EXCERPT_02">沒有誰能馴服我們野蠻的靈魂，而你接受了挑戰，</entry>
-<entry name="PROLOGUE_EXCERPT_03">在最蒼白的注視下，你教授，我們改變，本能得到了救贖。</entry>
-<entry name="PRE_MENU_QUOTE_AUTHOR">——柯尼法</entry>
-<entry name="PROLOGUE_EXCERPT_01">在遠方的荒野裡，提到你的名字它們都飽含敬畏與惋惜之情，</entry>
-<entry name="SNEAK_PEEK">這個搶先預覽版是空洞騎士的未完成版本，並不代表最終效果。</entry>
-<entry name="PROLOGUE_EXCERPT_04">你為蟲子和野獸帶來了它們做夢也想不到的世界。</entry>
+<entry name="PROLOGUE_EXCERPT_AUTHOR">- 節錄自《聖巢挽歌》，作者：教師莫諾蒙</entry>
+<entry name="PROLOGUE_EXCERPT_02">無人能馴服吾等野蠻之魂，唯汝應此挑戰，</entry>
+<entry name="PROLOGUE_EXCERPT_03">在最蒼白之視下，汝教導，吾等改變，卑劣本能得以救贖，</entry>
+<entry name="PRE_MENU_QUOTE_AUTHOR">- 柯尼法</entry>
+<entry name="PROLOGUE_EXCERPT_01">在彼荒野，其人以崇敬與遺憾之語談論汝名，</entry>
+<entry name="SNEAK_PEEK">此為《空洞騎士》未完成版本的搶先預覽，不代表最終表現。</entry>
+<entry name="PROLOGUE_EXCERPT_04">汝賦予蟲與獸一個前所未有之夢想世界。</entry>
 </entries>
